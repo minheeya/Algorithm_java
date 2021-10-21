@@ -11,6 +11,7 @@ public class Cryptography {
 			mul *= numbers[i];
 		}
 		return mul;
+		
 	}
 	
 	public static void main(String[] args) {
